@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Gyungwoo — AI Application Engineer" src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:0D1117,50:14213D,100:1F6FEB&amp;text=GYUNGWOO&amp;fontColor=FFFFFF&amp;fontSize=44&amp;fontAlignY=36&amp;desc=AI%20Application%20Engineer%20%7C%20Data%20%26%20LLM%20Systems&amp;descAlignY=58&amp;animation=fadeIn" />
+<img width="100%" alt="Gyungwoo — AI Application Engineer" src="./assets/header.svg" />
 
 ### Building practical AI systems for real-world workflows.
 
@@ -171,6 +171,6 @@ My goal is to build tools that people can use in their daily work.
 
 **Build AI that actually gets used.**
 
-<img width="100%" alt="Blue wave footer" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:0D1117,50:14213D,100:1F6FEB" />
+<img width="100%" alt="Blue wave footer" src="./assets/footer.svg" />
 
 </div>
