@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Gyungwoo — AI Application Engineer" src="./assets/header.svg" />
+<img width="100%" alt="Kyungwoo — AI Application Engineer" src="./assets/header.svg" />
 
 ### Building practical AI systems for real-world workflows.
 
